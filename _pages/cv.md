@@ -45,7 +45,7 @@ Professional experience
   * Supervisor: Prof. [Haiming Wang](https://scholar.google.com/citations?user=O-3ZwYwAAAAJ&hl=en)
 
 * Apr. 2016 - Aug. 2018: Research Assistant
-  * China Telecommunication Technology Labs−Terminals, China Academy of Information and Communications Technology, Beijing, China
+  * [China Telecommunication Technology Labs](http://www.chinattl.com/)−Terminals, [China Academy of Information and Communications Technology](http://www.caict.ac.cn/english/), Beijing, China
   * Duties included:
     + Development of the Time-Area function model based on QGIS environment for stormwater management.
     + Flood modelling and mitigation of Hafar Al-Batin city in Saudi Arabia.   
