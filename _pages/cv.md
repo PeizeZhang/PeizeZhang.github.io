@@ -8,73 +8,62 @@ redirect_from:
 
 {% include base_path %}
 
-Download [CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf)
+Download [CV](http://peizezhang.github.io/files/FullCV_Peize.pdf)
 ======
 
 Education
 ======
-* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+* B.Eng. in Communication Engineering, Beijing University of Posts and Telecommunications, Beijing, China, 2015
+* M.Sc. in Information and Communication Engineering, China Academy of Telecommunications Technology, 2018
+* Ph.D. in Electromagnetic Field and Microwave Engineering, Southeast University, Nanjing, China, 2022
 
 Research Interests
 ======
-* Hydro-climatological modelling and forecasting (e.g. Wavelet System Prediction)
-* Postprocessing techniques for correcting bias in numerical weather predictions (e.g. Wavelet-based quantile mapping)
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality modelling
-* Hydro-Informatics and water management
-
-Research Highlights
-======
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
-* An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Development of a [postprocessing method](https://doi.org/10.1175/MWR-D-22-0217.1) for correcting bias in Numerical Weather Predictions in the time-frequency domain
-* Quantification of future changes in [drought](https://doi.org/10.1029/2022EF003350) and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
+* Radio propagation measurements
+* Channel characterization and physics-based modeling
+* Machine learning assisted channel modeling
 
 Professional experience
 ======
-* Jun. 2021 - Current: Research Associate
-  * Water Research Centre, University of New South Wales, Sydney, Australia
+* Jun. 2022 - Current: Postdoctoral Researcher
+  * [Centre for Wireless Communications - Radio Technologies](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/cwc-radio-technologies) and [6G Flagship](https://www.6gflagship.com/), University of Oulu, Oulu, Finland
   * Duties included: 
 	+ The development of Wavelet System Prediction (WASP) for characterizing chaotic system
     + Hydro-climatological forecasting using CMIP decadal and ACCESS seasonal forecasts
-    + Interannual rainfall forecasting with CMIP6 decadal projections over Australia
-    + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
-  * Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
+  * Supervisors: Docent [Pekka Kyösti](https://www.oulu.fi/en/researchers/pekka-kyosti) and Prof. [Aarno Pärssinen](https://www.oulu.fi/en/researchers/aarno-parssinen)
 
-* Aug. 2023 - Current: Guest Scientist
-* May 2023 - Jul. 2023: Scientist
-  * Helmholtz-Centre Potsdam - German Research Centre (GFZ), Potsdam, Brandenburg, Germany
+* Jan. 2021 - Dec. 2021: Visiting Doctoral Student
+  * [Institute for Information and Communication Technologies, Electronics and Applied Mathematics (ICTEAM)](https://uclouvain.be/en/research-institutes/icteam) - Electrical Engineering, Université Catholique de Louvain, Louvain-la-Neuve, Belgium
   * Duties included: 
-	+ Climate-informed Flood Frequency Analysis under a changing climate
-  * Supervisor: Prof. Dr. [Bruno Merz](https://www.gfz-potsdam.de/en/staff/bruno.merz/sec44)
+	  + Climate-informed Flood Frequency Analysis under a changing climate
+  * Supervisor: Prof. [Claude Oestges](https://uclouvain.be/fr/repertoires/Claude.Oestges)
 
-* Nov. 2015 - Feb. 2018: Research Assistant/Engineer
-  * Tropical Marine Science Institute, National University of Singapore, Singapore
+* Sep. 2018 - May. 2022: Research Assistant
+  * [State Key Laboratory of MillimeterWaves](https://mmw.seu.edu.cn/), Southeast University, Nanjing, China
   * Duties included: 
-	+ DSSAT crop modeling of future rice yield in Vietnam under climate change, Singapore-MIT Alliance project.
-	+ Development of index-based drought insurance for sovereign disaster risk transfer, International Finance Corporation, World Bank project. 
-	+ Impact of climate change on inland and coastal flooding in Singapore, Public Utilities Board (PUB) project.
-	+ Effectiveness of ABC Waters design features in residential developments, PUB-TMSI-Monash University project.
-  * Supervisor: Prof. [Shie-Yui Liong](https://scholar.google.com.au/citations?user=PvpaEVUAAAAJ&hl=en)
+	  + DSSAT crop modeling of future rice yield in Vietnam under climate change, Singapore-MIT Alliance project.
+  * Supervisor: Prof. [Haiming Wang](https://scholar.google.com/citations?user=O-3ZwYwAAAAJ&hl=en)
 
-* Mar. 2015 - Sep. 2015: Intern
-  * Ingenieurgesellschaft Prof. Dr. Sieker mbH, Berlin, Germany
+* Apr. 2016 - Aug. 2018: Research Assistant
+  * China Telecommunication Technology Labs−Terminals, China Academy of Information and Communications Technology, Beijing, China
   * Duties included:
     + Development of the Time-Area function model based on QGIS environment for stormwater management.
     + Flood modelling and mitigation of Hafar Al-Batin city in Saudi Arabia.   
-  * Supervisors: Prof. [Frank Molkenthin](https://www.b-tu.de/fg-hydrologie/team/mitarbeiter/apl-prof-frank-molkenthin) and Prof. [Heiko Sieker](https://www.sieker.de/aktuelles/news/heiko-sieker-honorarprofessor-an-der-tu-berlin-143.html?no_cache=1)
+  * Supervisors: Dr. Hongbo Wang, Chief Engineer
 
 Awards & honors
 ======
-* 2023, Helmholtz Visiting Researcher Grant by Helmholtz Association of German Research Centers
-* 2021, Postdoctoral Writing Fellowship funded by UNSW
-* 2019, OzEWEX Summer Institute Scholarship
-* 2018, University International Postgraduate Award (UIPA) funded by UNSW
-* 2013, Erasmus Mundus Scholarship Award by European Union
-* 2010, National Undergraduate Mathematical Contest in Modeling (Provincial Award)
+* Nov. 2023 Jorma Ollila Grant by Nokia Foundation
+* Aug. 2023 IEEE Antennas Propagation Society (AP-S) Fellowship
+* June 2023 Best Doctoral Thesis Award at Southeast University
+* June 2022 Outstanding PhD Graduate Award
+* Oct. 2021 China National Scholarship for Distinguished PhD Students
+* Oct. 2019/2020/2021 Scholarship for Outstanding Students at Southeast University
+* Oct. 2019 Best Paper Award in the 15th Chinese National Symposium on Radio Propagation (CNSRP 2019)
+* July 2018 Best Master’s Thesis Award at China Academy of Telecommunications Technology
+* Aug. 2017 Best Paper Award in the symposium on LTE Network Innovation toward 5G
+* July 2015 Best Bachelor Thesis Award at Beijing University of Posts and Telecommunications
+
 
 Publications
 ======
