@@ -1,7 +1,7 @@
 ---
 title: "WASP: Wavelet System Prediction"
 excerpt: "The open-source software WASP is used for system modeling and prediction."
-collection: software
+collection: research
 ---
 <img src='/images/x_z.gif'><br/>
 
