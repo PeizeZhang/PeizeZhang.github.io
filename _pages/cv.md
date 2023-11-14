@@ -64,18 +64,12 @@ Awards & honors
 * Aug. 2017 Best Paper Award in the symposium on LTE Network Innovation toward 5G
 * July 2015 Best Bachelor Thesis Award at Beijing University of Posts and Telecommunications
 
-
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Journal articles (Total: 12)
+* Conference papers (Total: 14)
+* Book chapters (Total: 2)
+* Standard proposals/contributions to, e.g., ITU-R and ETSI (Total: 7)
   
 Teaching
 ======
@@ -83,10 +77,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Languages
-======
-Mandarin(Native), English(Fluent), German(Basic), French(Basic)
-
 Skills & Expertise 
 ======
 * Statistical hydrology and water resource engineering.
@@ -94,23 +84,13 @@ Skills & Expertise
 * Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
 * Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
 
-Service and leadership
+Professional Activities
 ======
-* Contribute to the First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
-* Contribute to the Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
-* Topic Coordinator for a [Special Issue of Frontiers in Marine Science](https://www.frontiersin.org/research-topics/46827/toxicological-endpoints-and-bioavailability-of-emerging-contaminants-and-their-impacts-on-marine-nut)
-* Reviewer Editor: 
-  + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
-* Reviewer for Scholarly Journals: 
-  + Journal of Hydrology
-  + International Journal of River Basin Management 
-  + Weather and Climate Extremes; Journal of Applied Meteorology and Climatology
-  + Frontiers in Water; Water; Sustainability; International Journal of Environmental Research and Public Health
-
-Membership
-======
-* American Geophysical Union (AGU)
-* European Geosciences Union (EGU) 
-* Asia Oceania Geosciences Society (AOGS)
-* International Commission of Statistical Hydrology (ICSH-IAHS)
-* Modeling and Simulation Society of Australia and New Zealand (MSSANZ)
+* Member of the Technical Program Committee
+  + IEEE Globecom 2023, Wireless Communications Symposium
+  + IEEE Globecom 2022/2023, Workshop on Propagation Channel Models and Evaluation Methodologies for 6G
+* Guest Editor
+  + Co-editor of Special Issue of Int. J. Antennas Propag. on [Advances in Channel Modeling and Estimation for B5G/6G Communications](https://www.hindawi.com/journals/ijap/si/545599/)
+* Member of the Technical Program Committee
+* Reviewer
+  + IEEE TAP/OJAP/TWC/TSP/TVT/WCL/CL, etc.
