@@ -1,7 +1,7 @@
 ---
 title: "WQM: Wavelet-based Quantile Mapping"
 excerpt: "The open-source software WQM is used for post-processing numerical weather prediction."
-collection: software
+collection: research
 ---
 <img src='/images/AtmosphericModelSchematic.png'><br/>
 
