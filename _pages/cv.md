@@ -76,13 +76,6 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Skills & Expertise 
-======
-* Statistical hydrology and water resource engineering.
-* Strong interpersonal skills with a good sense of teamwork. 
-* Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
 
 Professional Activities
 ======
