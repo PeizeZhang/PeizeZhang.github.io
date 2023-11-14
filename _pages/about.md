@@ -18,7 +18,7 @@ From 2016 to 2018, he was also a research assistant with the China Academy of In
 ## Research Highlights
 * Radio propagation measurements: channel sounder development and parameter estimation
 * Channel characterization and modeling
-* Millimeter-wave and teraHertz wireless communications
+* Millimeter-wave and terahertz wireless communications
 
 ## For more information
 More info about Peize Zhang can be found in [CV](http://peizezhang.github.io/files/FullCV_Peize.pdf).
