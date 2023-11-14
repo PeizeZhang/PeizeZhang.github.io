@@ -1,7 +1,7 @@
 ---
 title: "synthesis: Generate Synthetic Data from Statistical Models"
 excerpt: "Generate synthetic time series from commonly used statistical models, including linear, nonlinear and chaotic systems."
-collection: software
+collection: research
 ---
 <img src='/images/synthesis.png'><br/>
 
