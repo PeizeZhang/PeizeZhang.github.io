@@ -23,7 +23,7 @@ Research Interests
 * Channel characterization and physics-based modeling
 * Machine learning assisted channel modeling
 
-Professional experience
+Professional Experience
 ======
 * Jun. 2022 - Current: Postdoctoral Researcher
   * [Centre for Wireless Communications - Radio Technologies](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/cwc-radio-technologies) and [6G Flagship](https://www.6gflagship.com/), University of Oulu, Oulu, Finland
@@ -51,7 +51,7 @@ Professional experience
     + Flood modelling and mitigation of Hafar Al-Batin city in Saudi Arabia.   
   * Supervisors: Dr. Hongbo Wang, Chief Engineer
 
-Awards & honors
+Awards & Honors
 ======
 * Nov. 2023 Jorma Ollila Grant by Nokia Foundation
 * Aug. 2023 IEEE Antennas Propagation Society (AP-S) Fellowship
