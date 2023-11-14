@@ -1,11 +1,11 @@
 ---
 title: "Predictor identifier: Nonparametric PREDiction (NPRED)"
 excerpt: "The open-source R package NPRED is used to identify the meaningful predictors to the response from a large set of potential predictors."
-collection: software
+collection: research
 ---
 <img src='/images/mi.png'><br/>
 
-A new version based on [NPRED](http://hydrology.unsw.edu.au/download/software/NPRED) without calling Fortran codes.
+A new version based on [NPRED](http://hydrology.unsw.edu.au/download/research/NPRED) without calling Fortran codes.
 
 ## Requirements
 <pre>
